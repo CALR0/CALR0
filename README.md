@@ -36,7 +36,6 @@
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
@@ -50,4 +49,12 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CALR0&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CALR0&layout=compact&theme=radical" />
+</p>
+
+---
+
+<h3 align="center">🐍 Snake in my contributions:</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CALR0/CALR0/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
