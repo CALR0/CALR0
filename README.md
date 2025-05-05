@@ -51,10 +51,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CALR0&layout=compact&theme=radical" />
 </p>
 
----
-
-<h3 align="center">🐍 Snake in my contributions:</h3>
-
-<p align="center">
-  <![snake gif](https://raw.githubusercontent.com/CALR0/CALR0/output/github-contribution-grid-snake.svg)/>
-</p>
