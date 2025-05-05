@@ -56,5 +56,5 @@
 <h3 align="center">🐍 Snake in my contributions:</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CALR0/CALR0/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <![snake gif](https://raw.githubusercontent.com/CALR0/CALR0/output/github-contribution-grid-snake.svg)/>
 </p>
