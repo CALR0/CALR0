@@ -1,8 +1,10 @@
-## Hey, I'm Carlos Lizarazo👋
+<h2 align="center">Hey, I'm Carlos Lizarazo👋</h2>
 
-<h3 align="center">Software Engineering student from Colombia / Universidad del Magdalena </h3>
+<h3 align="center">Software Engineering student from Colombia / Universidad del Magdalena</h3>
 
-### Contact with me:
+---
+
+<h3 align="center">📫 Contact with me:</h3>
 
 <p align="center">
   <a href="https://www.instagram.com/calerre_/">
@@ -18,7 +20,7 @@
 
 ---
 
-### Languages and tools preference:
+<h3 align="center">💻 Languages and tools preference:</h3>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
@@ -30,7 +32,7 @@
 
 ---
 
-### Others languages and tools:
+<h3 align="center">🧰 Other languages and tools:</h3>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40"/>
@@ -43,7 +45,7 @@
 
 ---
 
-### 📊 GitHub Stats:
+<h3 align="center">📊 GitHub Stats:</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CALR0&show_icons=true&theme=radical" />
