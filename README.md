@@ -40,12 +40,8 @@
 <h3 align="center">📊 GitHub stats:</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CALR0&show_icons=true&theme=radical&hide=prs&cache_bust=2" alt="GitHub Stats" width="40.5%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CALR0&layout=compact&theme=radical&cache_bust=2" alt="Top Languages" width="27.5%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CALR0&theme=radical&cache_bust=3" alt="GitHub Streak" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CALR0&show_icons=true&theme=radical&hide=prs&cache_bust=5" alt="GitHub Stats" width="40.5%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CALR0&layout=compact&theme=radical&cache_bust=5" alt="Top Languages" width="27.5%" />
 </p>
 
 <div align="center">
