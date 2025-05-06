@@ -51,3 +51,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CALR0&layout=compact&theme=radical" />
 </p>
 
+---
+
+![snake gif](https://github.com/CALR0/CALR0/blob/output/github-contribution-grid-snake.gif)
