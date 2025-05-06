@@ -37,9 +37,7 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats:</h3>
-
-<h3 align="center">📊 GitHub Stats & Activity</h3>
+<h3 align="center">📊 GitHub stats:</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CALR0&show_icons=true&theme=radical&hide=prs&cache_bust=1" alt="GitHub Stats" width="37.5%" />
