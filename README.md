@@ -53,4 +53,4 @@
 
 ---
 
-![snake gif](https://github.com/CALR0/CALR0/blob/output/github-contribution-grid-snake.gif)
+
