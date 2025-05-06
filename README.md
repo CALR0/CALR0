@@ -8,13 +8,13 @@
 
 <p align="center">
   <a href="https://www.instagram.com/calerre_/">
-    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram" />
+    <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://x.com/cxrlos_lzr">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter" />
+    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="mailto:carandres203@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
