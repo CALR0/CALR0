@@ -7,14 +7,11 @@
 <h3 align="center">📫 Contact with me:</h3>
 
 <p align="center">
-  <a href="https://www.instagram.com/calerre_/">
-    <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
   <a href="https://x.com/cxrlos_lzr">
-    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="mailto:carandres203@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white" />
+     <img src="https://img.shields.io/badge/X-%23333333?style=for-the-badge&logo=x&logoColor=white" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:carlosandr3zlizarazoromero@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23333333?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
