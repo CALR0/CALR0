@@ -18,8 +18,6 @@
   </a>
 </p>
 
----
-
 <h3 align="center">💻 Languages and tools preference:</h3>
 
 <p align="center">
@@ -29,8 +27,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
 </p>
-
----
 
 <h3 align="center">🧰 Other languages and tools:</h3>
 
@@ -50,8 +46,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=CALR0&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CALR0&layout=compact&theme=radical" />
 </p>
-
----
 
 <div align="center">
 <picture>
