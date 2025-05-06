@@ -40,12 +40,12 @@
 <h3 align="center">📊 GitHub stats:</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CALR0&show_icons=true&theme=radical&hide=prs&cache_bust=1" alt="GitHub Stats" width="37.5%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CALR0&layout=compact&theme=radical&cache_bust=1" alt="Top Languages" width="35.5%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CALR0&show_icons=true&theme=radical&hide=prs&cache_bust=2" alt="GitHub Stats" width="37.5%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CALR0&layout=compact&theme=radical&cache_bust=2" alt="Top Languages" width="25.5%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CALR0&theme=radical&cache_bust=1" alt="GitHub Streak" width="50%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CALR0&theme=radical&cache_bust=3" alt="GitHub Streak" width="50%" />
 </p>
 
 <div align="center">
@@ -55,5 +55,3 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CALR0/CALR0/output/github-contribution-grid-snake.svg">
 </picture>
 </div>
-
-
