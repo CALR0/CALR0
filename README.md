@@ -1,4 +1,4 @@
-<h2 align="center">Hey, I'm Carlos Lizarazo👋</h2>
+<h2 align="center">Hey, I'm Carlos Lizarazo 👋</h2>
 
 <h3 align="center">Software engineering student at the University of Magdalena, living in Colombia</h3>
 
