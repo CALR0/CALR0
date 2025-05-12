@@ -1,6 +1,6 @@
 <h2 align="center">Hey, I'm Carlos Lizarazo 👋</h2>
 
-<h3 align="center">Software engineering student at the University of Magdalena, living in Colombia</h3>
+<h3 align="center">Software engineering student at the University of Magdalena, living in Colombia.</h3>
 
 ---
 
@@ -8,10 +8,10 @@
 
 <p align="center">
   <a href="https://x.com/cxrlos_lzr">
-     <img src="https://img.shields.io/badge/X-%23333333?style=for-the-badge&logo=x&logoColor=white" />
+     <img src="https://img.shields.io/badge/X-1D9BF0?style=for-the-badge&logo=x&logoColor=white" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:carlosandr3zlizarazoromero@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23333333?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
