@@ -43,8 +43,8 @@
 <h3 align="center">📊 GitHub stats:</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CALR0&show_icons=true&theme=radical&hide=prs&cache_bust=10" alt="GitHub Stats" width="40.5%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CALR0&layout=compact&theme=radical&cache_bust=10" alt="Top Languages" width="27.5%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CALR0&show_icons=true&theme=radical&hide=prs&cache_bust=10" alt="GitHub Stats" width="45.5%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CALR0&layout=compact&theme=radical&cache_bust=10" alt="Top Languages" width="30.5%" />
 </p>
 
 <div align="center">
