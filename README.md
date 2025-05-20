@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Carlos Lizarazo 👋</h1>
 
-<h3 align="center">Software engineering student at the University of Magdalena, living in Colombia.</h3>
+<h3 align="center">Systems engineering student at the University of Magdalena, living in Colombia.</h3>
 
 ---
 
