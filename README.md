@@ -47,7 +47,7 @@
 <h3 align="center">GitHub stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CALR0&show_icons=true&theme=dark&hide_border=true&count_private=true&hide=prs&burst=3" alt="GitHub Contributions Density" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CALR0&show_icons=true&theme=dark&hide_border=true&count_private=true&hide=prs&burst=4" alt="GitHub Contributions Density" width="40%" />
 </p>
 
 <p align="center">
