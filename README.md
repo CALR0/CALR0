@@ -65,6 +65,10 @@
 
 <h3 align="center">📂 Check out my work</h3>
 
+<p align="center">
+  Take a look at the projects I’ve worked on below:
+</p>
+
 <table align="center">
   <tr>
     <td align="center" style="padding: 10px;">
