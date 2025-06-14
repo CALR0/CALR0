@@ -4,7 +4,7 @@
 
 ---
 
-<h3 align="center">About me</h3>
+<h3 align="center">📌 About me</h3>
 
 <table>
   <tr>
@@ -23,7 +23,7 @@
   </tr>
 </table>
 
-<h4 align="center">Languages and tools preference</h4>
+<h4 align="center">Languages and tools preference:</h4>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
@@ -34,7 +34,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
 </p>
 
-<h4 align="center">Additional languages and technologies</h4>
+<h4 align="center">Additional languages and technologies:</h4>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/>
@@ -45,7 +45,7 @@
 
 ---
 
-<h3 align="center">Development approach</h3>
+<h3 align="center">🔧 Development approach</h3>
 
 <p align="center">
   I’m passionate about building scalable and efficient web applications using <b>Node.js</b> and <b>React</b>. These technologies allow me to work quickly, stay modular, and deliver high-performance solutions across both frontend and backend.
@@ -114,11 +114,15 @@
 
 ---
 
-<h3 align="center">GitHub development stats</h3>
+<h3 align="center">📈 GitHub development stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CALR0&show_icons=true&theme=onedark&hide_border=true&count_private=true&hide=prs&burst=29" alt="GitHub Contributions Density" width="54%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CALR0&layout=compact&theme=onedark&hide_border=true&burst=29" alt="Most used languages" />
+  Explore the statistics from my GitHub profile:
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CALR0&show_icons=true&theme=onedark&hide_border=true&count_private=true&hide=prs&burst=30" alt="GitHub Contributions Density" width="54%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CALR0&layout=compact&theme=onedark&hide_border=true&burst=30" alt="Most used languages" />
 </p>
 
 <div align="center">
@@ -129,9 +133,13 @@
   </picture>
 </div>
 
+---
 
 <h3 align="center">📫 Contact with me</h3>
 
+<p align="center">
+  Want to connect? Don’t hesitate to reach out through my social networks!
+</p>
 
 <p align="center">
   <a href="https://x.com/cxrlos_lzr">
