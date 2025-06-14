@@ -14,7 +14,7 @@
         • 💻 Focused on fullstack development with Node.js and React.<br>
         • 📘 Currently learning advanced TypeScript and exploring cloud technologies.<br>
         • 🧠 Passionate about problem-solving, software architecture, and system design.<br>
-        • 🎯 Solid experience in building responsive, component-based frontend interfaces with React, Vite, and TypeScript.
+        • 💼 Solid experience in building responsive, component-based frontend interfaces with React, Vite, and TypeScript.
       </p>
     </td>
     <td align="center" width="30%">
