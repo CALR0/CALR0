@@ -1,10 +1,29 @@
 <h1 align="center">Hey, I'm Carlos Lizarazo 👋</h1>
 
-<h3 align="center">Systems engineering student at the University of Magdalena, living in Colombia.</h3>
+<h3 align="center">Systems engineering student at the University of Magdalena.</h3>
 
 ---
 
-<h3 align="center">Languages and tools preference</h3>
+<h3 align="center">About me</h3>
+
+<table>
+  <tr>
+    <td align="left" width="70%">
+      <p>
+        • 🌍 Born in Santa Marta, Colombia.<br>
+        • 💻 Focused on fullstack development with Node.js and React.<br>
+        • 📘 Currently learning advanced TypeScript and exploring cloud technologies.<br>
+        • 🧠 Passionate about problem-solving, software architecture, and system design.<br>
+        • 🎯 Solid experience in building responsive, component-based frontend interfaces with React, Vite, and TypeScript.
+      </p>
+    </td>
+    <td align="center" width="30%">
+      <img src="https://cdn-icons-png.flaticon.com/512/1940/1940308.png" width="130" alt="About me image" />
+    </td>
+  </tr>
+</table>
+
+<h4 align="center">Languages and tools preference</h4>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
@@ -15,7 +34,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
 </p>
 
-<h3 align="center">Additional languages and technologies</h3>
+<h4 align="center">Additional languages and technologies</h4>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/>
@@ -42,9 +61,56 @@
   <img src="https://static.vecteezy.com/system/resources/thumbnails/019/153/003/small/3d-minimal-programming-icon-coding-screen-web-development-concept-laptop-with-a-coding-screen-and-a-coding-icon-3d-illustration-png.png" width="235" alt="Tech illustration" />
 </p>
 
+--- 
+
+<h3 align="center">📂 Check out my work</h3>
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding: 10px;">
+      <p><b>Frontend platform for managing university internships.</b></p>
+      <a href="https://github.com/CALR0/linked-mag-frontend" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedMag%20Frontend-Angular%20%7C%20NG%20Prime-red?style=for-the-badge&logo=angular" />
+      </a>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <p><b>Backend services and controllers for managing internships.</b></p>
+      <a href="https://github.com/CALR0/linked-mag-backend" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedMag%20Backend-Node.js%20%7C%20Express.Js-green?style=for-the-badge&logo=node.js" />
+      </a>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <p><b>Online store platform with products, filter, and contact info.</b></p>
+      <a href="https://github.com/CALR0/melrop-store-webapp" target="_blank">
+        <img src="https://img.shields.io/badge/Melrop%20Store%20WebApp-React%20%7C%20Tailwind%20%7C%20Vite-blue?style=for-the-badge&logo=react" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 10px;">
+      <p><b>Backend API for managing car rentals and reservations.</b></p>
+      <a href="https://github.com/CALR0/rent-car-backend" target="_blank">
+        <img src="https://img.shields.io/badge/RentCar%20Backend-Spring%20Boot%20%7C%20Gradle-6DB33F?style=for-the-badge&logo=springboot" />
+      </a>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <p><b>Car rental frontend with booking interface and search UI.</b></p>
+      <a href="https://github.com/CALR0/rent-car-front" target="_blank">
+        <img src="https://img.shields.io/badge/RentCar%20Front-React%20%7C%20Vite%20%7C%20JavaScript-yellow?style=for-the-badge&logo=react" />
+      </a>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <p><b>Apartment management and reservation platform with calendar UI.</b></p>
+      <a href="https://github.com/CALR0/myapartment-front" target="_blank">
+        <img src="https://img.shields.io/badge/MyApartment%20Front-React%20%7C%20Typescript%20%7C%20Vite-blueviolet?style=for-the-badge&logo=react" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 ---
 
-<h3 align="center">Git development stats</h3>
+<h3 align="center">GitHub development stats</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CALR0&show_icons=true&theme=onedark&hide_border=true&count_private=true&hide=prs&burst=29" alt="GitHub Contributions Density" width="54%" />
@@ -59,7 +125,6 @@
   </picture>
 </div>
 
---- 
 
 <h3 align="center">📫 Contact with me</h3>
 
