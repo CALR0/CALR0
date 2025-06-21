@@ -14,7 +14,7 @@
         • 💻 Focused on fullstack development with Node.js and React.<br>
         • 📘 Currently learning advanced TypeScript and exploring cloud technologies.<br>
         • 🧠 Passionate about problem-solving, software architecture, and system design.<br>
-        • 💼 Solid experience in building responsive, component-based frontend interfaces with React, Vite, and TypeScript.
+        • 💼 Solid experience in building responsive, component-based frontend interfaces with React, Svelte, Vite, and TypeScript.
       </p>
     </td>
     <td align="center" width="30%">
@@ -49,7 +49,7 @@
 <h3 align="center">🔧 Development approach</h3>
 
 <p align="center">
-  I’m passionate about building scalable and efficient web applications using <b>Node.js</b> and <b>React</b>. These technologies allow me to work quickly, stay modular, and deliver high-performance solutions across both frontend and backend.
+  I’m passionate about building scalable and efficient web applications using <b>Node.js</b>, <b>React</b>, and <b>Svelte</b>. These technologies allow me to work quickly, stay modular, and deliver high-performance solutions across both frontend and backend.
 </p>
 <p align="center">
   My journey began with <b>Java</b> and <b>Spring</b>, where I developed a solid understanding of backend architecture and enterprise-level development. Today, I’m deepening my expertise in <b>TypeScript</b> to write safer, more maintainable code.
@@ -122,8 +122,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CALR0&show_icons=true&theme=onedark&hide_border=true&count_private=true&hide=prs&burst=46" alt="GitHub Contributions Density" width="54%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CALR0&layout=compact&theme=onedark&hide_border=true&burst=46" alt="Most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CALR0&show_icons=true&theme=onedark&hide_border=true&count_private=true&hide=prs&burst=47" alt="GitHub Contributions Density" width="54%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CALR0&layout=compact&theme=onedark&hide_border=true&burst=47" alt="Most used languages" />
 </p>
 
 <div align="center">
