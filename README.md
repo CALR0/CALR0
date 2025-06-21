@@ -11,7 +11,7 @@
     <td align="left" width="70%">
       <p>
         • 🌍 Born in Santa Marta, Colombia.<br>
-        • 💻 Focused on fullstack development with Node.js and React.<br>
+        • 💻 Focused on fullstack development with Node.js, React, Svelte, and more.<br>
         • 📘 Currently learning advanced TypeScript and exploring cloud technologies.<br>
         • 🧠 Passionate about problem-solving, software architecture, and system design.<br>
         • 💼 Solid experience in building responsive, component-based frontend interfaces with React, Svelte, Vite, and TypeScript.
@@ -122,8 +122,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CALR0&show_icons=true&theme=onedark&hide_border=true&count_private=true&hide=prs&burst=47" alt="GitHub Contributions Density" width="54%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CALR0&layout=compact&theme=onedark&hide_border=true&burst=47" alt="Most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CALR0&show_icons=true&theme=onedark&hide_border=true&count_private=true&hide=prs&burst=48" alt="GitHub Contributions Density" width="54%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CALR0&layout=compact&theme=onedark&hide_border=true&burst=48" alt="Most used languages" />
 </p>
 
 <div align="center">
