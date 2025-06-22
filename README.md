@@ -122,8 +122,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CALR0&show_icons=true&theme=onedark&hide_border=true&count_private=true&hide=prs&burst=49" alt="GitHub Contributions Density" width="54%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CALR0&layout=compact&theme=onedark&hide_border=true&burst=49" alt="Most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CALR0&show_icons=true&theme=onedark&hide_border=true&count_private=true&hide=prs&burst=50" alt="GitHub Contributions Density" width="54%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CALR0&layout=compact&theme=onedark&hide_border=true&burst=50" alt="Most used languages" />
 </p>
 
 <div align="center">
