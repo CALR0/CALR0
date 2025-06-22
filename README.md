@@ -75,7 +75,7 @@
   <tr>
     <td align="center" style="padding: 10px;">
       <p><b>Frontend platform for managing university internships.</b></p>
-      <a href="https://github.com/CALR0/linked-mag-frontend" target="_blank">
+      <a href="https://github.com/CALR0/linked-mag-front" target="_blank">
         <img src="https://img.shields.io/badge/LinkedMag%20Frontend-Angular%20%7C%20NG%20Prime-red?style=for-the-badge&logo=angular" />
       </a>
     </td>
