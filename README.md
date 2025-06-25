@@ -50,26 +50,29 @@
 <h3 align="center">🔧 Development approach</h3>
 
 <p align="center">
-  I’m passionate about building scalable and efficient web applications using <b>Node.js</b>, <b>React</b>, and <b>Svelte</b>. These technologies allow me to work quickly, stay modular, and deliver high-performance solutions across both frontend and backend.
+  I’m passionate about building scalable and efficient web applications using <b>Node.js</b>, <b>React</b>, and <b>Svelte</b>.
+  These technologies allow me to work quickly, stay modular, and deliver high-performance solutions across both frontend and backend.
 </p>
+
 <p align="center">
-  My journey began with <b>Java</b> and <b>Spring</b>, where I developed a solid understanding of backend architecture and enterprise-level development. Today, I’m deepening my expertise in <b>TypeScript</b> to write safer, more maintainable code.
+  My journey began with <b>Java</b> and <b>Spring</b>, where I developed a solid understanding of backend architecture and enterprise-level development.
+  Today, I’m deepening my expertise in <b>TypeScript</b> to write safer, more maintainable code.
 </p>
+
 <p align="center">
-  Additionally, I have experience with other languages such as <b>Python</b> and <b>C++</b>, which I’ve been learning over time. I am committed to continuous learning, always exploring new frameworks and technologies to stay up to date and improve my skills.
+  Additionally, I have experience with other languages such as <b>Python</b> and <b>C++</b>, which I’ve been learning over time.
+  I am committed to continuous learning, always exploring new frameworks and technologies to stay up to date and improve my skills.
 </p>
 
 <p align="center">
   <img src="https://static.vecteezy.com/system/resources/thumbnails/019/153/003/small/3d-minimal-programming-icon-coding-screen-web-development-concept-laptop-with-a-coding-screen-and-a-coding-icon-3d-illustration-png.png" width="235" alt="Tech illustration" />
 </p>
 
---- 
+---
 
 <h3 align="center">📂 Check out my work</h3>
 
-<p align="center">
-  Take a look at the projects I’ve worked on below:
-</p>
+<p align="center">Take a look at the projects I’ve worked on below:</p>
 
 <table align="center">
   <tr>
@@ -106,9 +109,9 @@
       </a>
     </td>
     <td align="center" style="padding: 10px;">
-      <p><b>Apartment management and reservation platform with calendar UI.</b></p>
-      <a href="https://github.com/CALR0/myapartment-front" target="_blank">
-        <img src="https://img.shields.io/badge/MyApartment%20Front-React%20%7C%20Typescript%20%7C%20Vite-blueviolet?style=for-the-badge&logo=react" />
+      <p><b>Web tool to preview and generate HTML+CSS component variants.</b></p>
+      <a href="https://github.com/CALR0/blockloom" target="_blank">
+        <img src="https://img.shields.io/badge/Blockloom-Svelte%20%7C%20TypeScript%20%7C%20Vite-ff3e00?style=for-the-badge&logo=svelte" />
       </a>
     </td>
   </tr>
@@ -118,9 +121,7 @@
 
 <h3 align="center">📈 GitHub development stats</h3>
 
-<p align="center">
-  Explore the statistics from my GitHub profile:
-</p>
+<p align="center">Explore the statistics from my GitHub profile:</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CALR0&show_icons=true&theme=transparent&hide_border=true&count_private=true&hide=prs&burst=60" alt="GitHub Contributions Density" width="54%" />
@@ -139,9 +140,7 @@
 
 <h3 align="center">📫 Contact with me</h3>
 
-<p align="center">
-  Want to connect? Don’t hesitate to reach out through my social networks!
-</p>
+<p align="center">Want to connect? Don’t hesitate to reach out through my social networks!</p>
 
 <p align="center">
   <a href="https://x.com/cxrlos_lzr">
