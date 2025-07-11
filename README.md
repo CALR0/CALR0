@@ -110,7 +110,7 @@
     </td>
     <td align="center" style="padding: 10px;">
       <p><b>Web tool to preview and generate HTML+CSS component variants.</b></p>
-      <a href="https://github.com/CALR0/blockloom" target="_blank">
+      <a href="https://github.com/CALR0/Blockloom-app" target="_blank">
         <img src="https://img.shields.io/badge/Blockloom-Svelte%20%7C%20TypeScript%20%7C%20Vite-ff3e00?style=for-the-badge&logo=svelte" />
       </a>
     </td>
