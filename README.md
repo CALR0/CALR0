@@ -77,6 +77,12 @@
 <table align="center">
   <tr>
     <td align="center" style="padding: 10px;">
+      <p><b>TaskFlow: KanbanProject - Web app for managing tasks using Kanban methodology.</b></p>
+      <a href="https://github.com/Akiii-lab/KanbanProject" target="_blank">
+        <img src="https://img.shields.io/badge/TaskFlow%20Kanban%20-Next.js%20%7C%20TailwindCSS%20%7C%20SQL%20Server-blue?style=for-the-badge&logo=next.js" />
+      </a>
+    </td>
+    <td align="center" style="padding: 10px;">
       <p><b>Frontend platform for managing university internships.</b></p>
       <a href="https://github.com/CALR0/linked-mag-front" target="_blank">
         <img src="https://img.shields.io/badge/LinkedMag%20Frontend-Angular%20%7C%20NG%20Prime-red?style=for-the-badge&logo=angular" />
@@ -88,14 +94,14 @@
         <img src="https://img.shields.io/badge/LinkedMag%20Backend-Node.js%20%7C%20Express.Js-green?style=for-the-badge&logo=node.js" />
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" style="padding: 10px;">
       <p><b>Online store platform with products, filter, and contact info.</b></p>
       <a href="https://github.com/CALR0/melrop-store-webapp" target="_blank">
         <img src="https://img.shields.io/badge/Melrop%20Store%20WebApp-React%20%7C%20Tailwind%20%7C%20Vite-blue?style=for-the-badge&logo=react" />
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" style="padding: 10px;">
       <p><b>Backend API for managing car rentals and reservations.</b></p>
       <a href="https://github.com/CALR0/rent-car-backend" target="_blank">
@@ -108,6 +114,8 @@
         <img src="https://img.shields.io/badge/RentCar%20Front-React%20%7C%20Vite%20%7C%20JavaScript-yellow?style=for-the-badge&logo=react" />
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" style="padding: 10px;">
       <p><b>Web tool to preview and generate HTML+CSS component variants.</b></p>
       <a href="https://github.com/CALR0/Blockloom-app" target="_blank">
@@ -124,8 +132,8 @@
 <p align="center">Explore the statistics from my GitHub profile:</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CALR0&show_icons=true&theme=transparent&hide_border=true&count_private=true&hide=prs&burst=97" alt="GitHub Contributions Density" width="54%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CALR0&layout=compact&theme=transparent&hide_border=true&burst=97" alt="Most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CALR0&show_icons=true&theme=transparent&hide_border=true&count_private=true&hide=prs&burst=98" alt="GitHub Contributions Density" width="54%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CALR0&layout=compact&theme=transparent&hide_border=true&burst=98" alt="Most used languages" />
 </p>
 
 <div align="center">
