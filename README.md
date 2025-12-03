@@ -83,13 +83,13 @@
   <tr>
     <td align="center" style="padding: 10px;">
       <p><b>Backend API for managing calls and job offers.</b></p>
-      <a href="https://github.com/CALR0/TalentoLocal-Backend" target="_blank">
+      <a href="https://github.com/CALR0/TalentoLocal-backend" target="_blank">
         <img src="https://img.shields.io/badge/TalentoLocal%20Backend-.NET%208%20%7C%20EF%20Core%20%7C%20SQL%20Server-blueviolet?style=for-the-badge&logo=dotnet" />
       </a>
     </td>
     <td align="center" style="padding: 10px;">
       <p><b>Mobile app for reporting incidents with photos, videos and maps.</b></p>
-      <a href="https://github.com/CALR0/SafeMap" target="_blank">
+      <a href="https://github.com/CALR0/safe-map-app" target="_blank">
         <img src="https://img.shields.io/badge/SafeMap%20App-Flutter%20%7C%20Firebase%20%7C%20Cloudinary-02569B?style=for-the-badge&logo=flutter" />
       </a>
     </td>
