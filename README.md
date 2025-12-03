@@ -82,7 +82,7 @@
   <!-- ROW 1 -->
   <tr>
     <td align="center" style="padding: 10px;">
-      <p><b>Backend API for managing calls and job offers.</b></p>
+      <p><b>Backend API for managing convocations and job offers in Santa Marta.</b></p>
       <a href="https://github.com/CALR0/TalentoLocal-backend" target="_blank">
         <img src="https://img.shields.io/badge/TalentoLocal%20Backend-.NET%208%20%7C%20EF%20Core%20%7C%20SQL%20Server-blueviolet?style=for-the-badge&logo=dotnet" />
       </a>
