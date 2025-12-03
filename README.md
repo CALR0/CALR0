@@ -78,7 +78,7 @@
   <tr>
     <td align="center" style="padding: 10px;">
       <p><b>Web app for managing tasks using Kanban methodology.</b></p>
-      <a href="https://github.com/Akiii-lab/KanbanProject" target="_blank">
+      <a href="https://github.com/CALR0/KanbanProject" target="_blank">
         <img src="https://img.shields.io/badge/TaskFlow%20Kanban%20-Next.js%20%7C%20TailwindCSS%20%7C%20SQL%20Server-blue?style=for-the-badge&logo=next.js" />
       </a>
     </td>
