@@ -26,6 +26,7 @@
 <h4 align="center">Languages and tools preference:</h4>
 
 <p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="45"/>
@@ -34,6 +35,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
 </p>
+
+
 
 <h4 align="center">Additional languages and technologies:</h4>
 
@@ -60,7 +63,7 @@
 </p>
 
 <p align="center">
-  Additionally, I have experience with other languages such as <b>Python</b> and <b>C++</b>, which I’ve been learning over time.
+  Additionally, I have experience with other languages such as <b>Python</b>, <b>C++</b> and <b>C#</b> which I’ve been learning over time.
   I am committed to continuous learning, always exploring new frameworks and technologies to stay up to date and improve my skills.
 </p>
 
@@ -75,13 +78,31 @@
 <p align="center">Take a look at the projects I’ve worked on below:</p>
 
 <table align="center">
+
+  <!-- ROW 1 -->
   <tr>
+    <td align="center" style="padding: 10px;">
+      <p><b>Backend API for managing calls and job offers.</b></p>
+      <a href="https://github.com/CALR0/TalentoLocal-Backend" target="_blank">
+        <img src="https://img.shields.io/badge/TalentoLocal%20Backend-.NET%208%20%7C%20EF%20Core%20%7C%20SQL%20Server-blueviolet?style=for-the-badge&logo=dotnet" />
+      </a>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <p><b>Mobile app for reporting incidents with photos, videos and maps.</b></p>
+      <a href="https://github.com/CALR0/SafeMap" target="_blank">
+        <img src="https://img.shields.io/badge/SafeMap%20App-Flutter%20%7C%20Firebase%20%7C%20Cloudinary-02569B?style=for-the-badge&logo=flutter" />
+      </a>
+    </td>
     <td align="center" style="padding: 10px;">
       <p><b>Web app for managing tasks using Kanban methodology.</b></p>
       <a href="https://github.com/CALR0/KanbanProject" target="_blank">
         <img src="https://img.shields.io/badge/TaskFlow%20Kanban%20-Next.js%20%7C%20TailwindCSS%20%7C%20SQL%20Server-blue?style=for-the-badge&logo=next.js" />
       </a>
     </td>
+  </tr>
+
+  <!-- ROW 2 -->
+  <tr>
     <td align="center" style="padding: 10px;">
       <p><b>Frontend platform for managing university internships.</b></p>
       <a href="https://github.com/CALR0/linked-mag-front" target="_blank">
@@ -94,14 +115,16 @@
         <img src="https://img.shields.io/badge/LinkedMag%20Backend-Node.js%20%7C%20Express.Js-green?style=for-the-badge&logo=node.js" />
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" style="padding: 10px;">
       <p><b>Online store platform with products, filter, and contact info.</b></p>
       <a href="https://github.com/CALR0/melrop-store-webapp" target="_blank">
         <img src="https://img.shields.io/badge/Melrop%20Store%20WebApp-React%20%7C%20Tailwind%20%7C%20Vite-blue?style=for-the-badge&logo=react" />
       </a>
     </td>
+  </tr>
+
+  <!-- ROW 3 -->
+  <tr>
     <td align="center" style="padding: 10px;">
       <p><b>Backend API for managing car rentals and reservations.</b></p>
       <a href="https://github.com/CALR0/rent-car-backend" target="_blank">
@@ -114,8 +137,6 @@
         <img src="https://img.shields.io/badge/RentCar%20Front-React%20%7C%20Vite%20%7C%20JavaScript-yellow?style=for-the-badge&logo=react" />
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" style="padding: 10px;">
       <p><b>Web tool to preview and generate HTML+CSS component variants.</b></p>
       <a href="https://github.com/CALR0/Blockloom-app" target="_blank">
@@ -123,6 +144,7 @@
       </a>
     </td>
   </tr>
+
 </table>
 
 ---
