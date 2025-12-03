@@ -88,7 +88,7 @@
       </a>
     </td>
     <td align="center" style="padding: 10px;">
-      <p><b>Mobile app for reporting incidents with photos, videos and maps.</b></p>
+      <p><b>Mobile app for reporting incidents with photos, videos and visualizing map.</b></p>
       <a href="https://github.com/CALR0/safe-map-app" target="_blank">
         <img src="https://img.shields.io/badge/SafeMap%20App-Flutter%20%7C%20Firebase%20%7C%20Cloudinary-02569B?style=for-the-badge&logo=flutter" />
       </a>
