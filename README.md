@@ -79,7 +79,6 @@
 
 <table align="center">
 
-  <!-- ROW 1 -->
   <tr>
     <td align="center" style="padding: 10px;">
       <p><b>Backend API for managing convocations and job offers in Santa Marta.</b></p>
@@ -101,7 +100,6 @@
     </td>
   </tr>
 
-  <!-- ROW 2 -->
   <tr>
     <td align="center" style="padding: 10px;">
       <p><b>Frontend platform for managing university internships.</b></p>
@@ -123,7 +121,6 @@
     </td>
   </tr>
 
-  <!-- ROW 3 -->
   <tr>
     <td align="center" style="padding: 10px;">
       <p><b>Backend API for managing car rentals and reservations.</b></p>
