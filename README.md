@@ -11,7 +11,7 @@
     <td align="left" width="70%">
       <p>
         • 🌍 Born in Santa Marta, Colombia.<br>
-        • 💻 Focused on fullstack development with Node.js, React, Svelte, and more.<br>
+        • 💻 Focused on fullstack development with .NET, Node.js, React, Svelte, and more.<br>
         • 📘 Currently learning advanced TypeScript and exploring cloud technologies.<br>
         • 🧠 Passionate about problem-solving, software architecture, and system design.<br>
         • 💼 Solid experience in building responsive, component-based frontend interfaces with React, Svelte, Vite, and TypeScript.
@@ -50,7 +50,7 @@
 <h3 align="center">🔧 Development approach</h3>
 
 <p align="center">
-  I’m passionate about building scalable and efficient web applications using <b>Node.js</b>, <b>React</b>, and <b>Svelte</b>.
+  I’m passionate about building scalable and efficient web applications using <b>.NET</b>, <b>Node.js</b>, <b>React</b>, and <b>Svelte</b>.
   These technologies allow me to work quickly, stay modular, and deliver high-performance solutions across both frontend and backend.
 </p>
 
