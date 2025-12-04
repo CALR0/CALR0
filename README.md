@@ -151,7 +151,7 @@
 <p align="center">Explore the statistics from my GitHub profile:</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CALR0&show_icons=true&theme=transparent&hide_border=true&count_private=true&hide=prs&burst=98" alt="GitHub Contributions Density" width="54%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CALR0&show_icons=true&theme=transparent&hide_border=true&count_private=true&hide=prs&burst=99" alt="GitHub Contributions Density" width="54%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CALR0&layout=compact&theme=transparent&hide_border=true&burst=98" alt="Most used languages" />
 </p>
 
