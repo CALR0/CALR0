@@ -11,10 +11,10 @@
     <td align="left" width="70%">
       <p>
         • 🌍 Born in Santa Marta, Colombia.<br>
-        • 💻 Focused on fullstack development with .NET, Node.js, React, Svelte, and more.<br>
-        • 📘 Currently learning advanced TypeScript and exploring cloud technologies.<br>
+        • 💻 Focused on full-stack development, working with backend technologies like Node.js, Next.js, Spring Boot and .NET.<br>
+        • 📘 Currently learning and exploring cloud technologies.<br>
         • 🧠 Passionate about problem-solving, software architecture, and system design.<br>
-        • 💼 Solid experience in building responsive, component-based frontend interfaces with React, Svelte, Vite, and TypeScript.
+        • 💼 Solid experience in building component-based frontend interfaces with React (Ts, Js), Angular, Svelte.
       </p>
     </td>
     <td align="center" width="30%">
@@ -29,6 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
@@ -53,13 +54,13 @@
 <h3 align="center">🔧 Development approach</h3>
 
 <p align="center">
-  I’m passionate about building scalable and efficient web applications using <b>.NET</b>, <b>Node.js</b>, <b>React</b>, and <b>Svelte</b>.
+  I’m passionate about building scalable and efficient web applications using <b>.NET</b>, <b>Node.js</b>, <b>Next.js</b>, <b>React</b>, <b>Angular</b> and <b>Svelte</b>.
   These technologies allow me to work quickly, stay modular, and deliver high-performance solutions across both frontend and backend.
 </p>
 
 <p align="center">
   My journey began with <b>Java</b> and <b>Spring</b>, where I developed a solid understanding of backend architecture and enterprise-level development.
-  Today, I’m deepening my expertise in <b>TypeScript</b> to write safer, more maintainable code.
+  Today, I’m deepening my expertise to write safer and more maintainable code.
 </p>
 
 <p align="center">
