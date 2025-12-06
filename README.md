@@ -14,7 +14,7 @@
         • 💻 Focused on full-stack development, working with backend technologies like Node.js, Next.js, Spring Boot and .NET.<br>
         • 📘 Currently learning and exploring cloud technologies.<br>
         • 🧠 Passionate about problem-solving, software architecture, and system design.<br>
-        • 💼 Solid experience in building component-based frontend interfaces with React (Ts, Js), Angular, Svelte.
+        • 💼 Solid experience in building component-based frontend interfaces with React (TypeScript, JavaScript), Angular, Svelte.
       </p>
     </td>
     <td align="center" width="30%">
