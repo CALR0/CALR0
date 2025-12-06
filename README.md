@@ -11,7 +11,7 @@
     <td align="left" width="70%">
       <p>
         • 🌍 Born in Santa Marta, Colombia.<br>
-        • 💻 Focused on full-stack development, working with backend technologies like Node.js, Next.js, Spring Boot and .NET.<br>
+        • 💻 Focused on full-stack development, working with backend technologies like Node.js, Next.js, Spring Boot, .NET, Flask, FastAPI, among others.<br>
         • 📘 Currently learning and exploring cloud technologies.<br>
         • 🧠 Passionate about problem-solving, software architecture, and system design.<br>
         • 💼 Solid experience in building component-based frontend interfaces with React (TypeScript, JavaScript), Angular, Svelte.
@@ -28,6 +28,8 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
+  <img src="https://logo.svgcdn.com/devicon/flask-original.svg" width="45" alt="Flask logo"/>
+  <img src="https://logo.svgcdn.com/logos/fastapi-icon.svg" width="45" alt="FastAPI logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="45"/>
