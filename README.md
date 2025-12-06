@@ -51,29 +51,6 @@
 
 ---
 
-<h3 align="center">🔧 Development approach</h3>
-
-<p align="center">
-  I’m passionate about building scalable and efficient web applications using <b>.NET</b>, <b>Node.js</b>, <b>Next.js</b>, <b>React</b>, <b>Angular</b> and <b>Svelte</b>.
-  These technologies allow me to work quickly, stay modular, and deliver high-performance solutions across both frontend and backend.
-</p>
-
-<p align="center">
-  My journey began with <b>Java</b> and <b>Spring</b>, where I developed a solid understanding of backend architecture and enterprise-level development.
-  Today, I’m deepening my expertise to write safer and more maintainable code.
-</p>
-
-<p align="center">
-  Additionally, I have experience with other languages such as <b>Python</b>, <b>C++</b> and <b>C#</b> which I’ve been learning over time.
-  I am committed to continuous learning, always exploring new frameworks and technologies to stay up to date and improve my skills.
-</p>
-
-<p align="center">
-  <img src="https://static.vecteezy.com/system/resources/thumbnails/019/153/003/small/3d-minimal-programming-icon-coding-screen-web-development-concept-laptop-with-a-coding-screen-and-a-coding-icon-3d-illustration-png.png" width="235" alt="Tech illustration" />
-</p>
-
----
-
 <h3 align="center">📂 Check out my work</h3>
 
 <p align="center">Take a look at the projects I’ve worked on below:</p>
