@@ -4,7 +4,7 @@
 
 ---
 
-<h3 align="center">📌 About me</h3>
+<h3 align="center">About me</h3>
 
 <table>
   <tr>
@@ -54,7 +54,7 @@
 
 ---
 
-<h3 align="center">📂 Check out my work</h3>
+<h3 align="center">Check out my work</h3>
 
 <p align="center">Take a look at the projects I’ve worked on below:</p>
 
@@ -127,7 +127,7 @@
 
 ---
 
-<h3 align="center">📈 GitHub development stats</h3>
+<h3 align="center">GitHub development stats</h3>
 
 <p align="center">Explore the statistics from my GitHub profile:</p>
 
