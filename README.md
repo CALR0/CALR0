@@ -28,6 +28,7 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="45"/>
   <img src="https://logo.svgcdn.com/devicon/flask-original.svg" width="45" alt="Flask logo"/>
   <img src="https://logo.svgcdn.com/logos/fastapi-icon.svg" width="45" alt="FastAPI logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
