@@ -11,10 +11,10 @@
     <td align="left" width="70%">
       <p>
         • 🌍 Born in Santa Marta, Colombia.<br>
-        • 💻 Focused on full-stack development, working with backend technologies like Node.js, Next.js, Spring Boot, .NET, Flask, FastAPI, among others.<br>
+        • 💻 Focused on full-stack development, working with backend technologies like Node.js (Express.js), .NET, FastAPI, among others.<br>
         • 📘 Currently learning and exploring cloud technologies.<br>
         • 🧠 Passionate about problem-solving, software architecture, and system design.<br>
-        • 💼 Solid experience in building component-based frontend interfaces with React (TypeScript, JavaScript), Angular, Svelte.
+        • 💼 Experience in building component-based frontend interfaces with React, Angular.
       </p>
     </td>
     <td align="center" width="30%">
